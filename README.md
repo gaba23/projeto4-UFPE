@@ -1,1 +1,1 @@
-Página do Github com o intuito de armazenar e organizar os dados do projeto organizado pelas disciplinas SGE, PGP e GPN, quanto ao projeto referente ao problema do cliente Marlos da UFPE, sobre o registro de Diplomas Digitais Externos.
+Página do Github com o intuito de armazenar e organizar os dados do projeto organizado pelas disciplinas SGE, PGP e GPN, quanto ao projeto referente ao problema do cliente Marlos da UFPE, sobre o registro de Diplomas Digitais Externos. O intuito do projeto é trazer mais eficiência ao processo citado através da integração de sistemas. 
