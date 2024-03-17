@@ -3,3 +3,5 @@ Página do Github com o intuito de armazenar e organizar os dados do projeto org
 Link para repositório de áudios no Google Drive: <a>https://drive.google.com/drive/u/1/folders/118zWSI-7PrJ68fCCLHnqznFizMC-aZqL</a>
 
 Link para o quadro Kanban no Trello: <a>https://trello.com/b/NpkDbb8d/equipe-4</a>
+
+Link para o Miro: <a>https://miro.com/app/board/uXjVNQY6ywE=/?share_link_id=51381223042</a>
